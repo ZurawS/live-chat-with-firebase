@@ -1,4 +1,6 @@
 # live-chat
+Check out working app on:
+https://vue-first-firebase-site.web.app/chatroom
 
 ## Project setup
 ```
